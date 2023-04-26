@@ -912,12 +912,12 @@ header {
     position: relative; }
     .article .desc .meta {
       position: absolute;
-      top: -80px;
-      left: 20px;
+      top: -60px;
+      left: 0px;
       background: #FFE9E3;
       color: #000;
-      padding: 20px 10px;
-      font-size: 12px;
+      padding: 10px 10px;
+      font-size: 11px;
       text-transform: uppercase;
       letter-spacing: 4px;
       -webkit-transition: 1s;
